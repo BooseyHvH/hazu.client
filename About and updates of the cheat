@@ -1,8 +1,10 @@
-hazu.alien C++ CS:GO Windows x86 
+nemu.technology C++ CS:GO Windows x86 
 
 Features
 
-// Aimbot - aim assistance
+// Legitbot - aim assistance
+// Ragebot - aim assistance [ for hvh ]
+// Anti-Aim - creates fake angles in the csgo client [ mostly used in hvh ] 
 // Triggerbot - automatically fires when crosshair is on enemy
 // Backtrack - abuse lag compensation to move players back in time
 // Glow - render glow effect on entities
@@ -21,4 +23,4 @@ How do I open menu?
 Press INSERT key while focused on CS:GO window.
 
 Where is my config file saved?
-Configuration files are saved inside Osiris folder in your Documents folder (%USERPROFILE%\Documents\[hazu.alien]\[Settings]). The config is binary serialized so it is not meant to be edited by humans. Sometimes after updates configuration file needs to be deleted and recreated.
+Configuration files are saved inside nemu.technology folder in your Documents folder (%USERPROFILE%\Documents\nemu.technology). The config is binary serialized so it is not meant to be edited by humans. Sometimes after updates configuration file needs to be deleted and recreated.
